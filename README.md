@@ -7,7 +7,7 @@ Include buttons:
 * Volume comtrol
 * Play-Pause
 
-Straeming using AVPlayer class.
+Streaming using AVPlayer class.
 
 ![swift-radio-app-small](https://user-images.githubusercontent.com/7523384/108477011-fbc95700-7292-11eb-975d-a843ece20c66.png)
 
