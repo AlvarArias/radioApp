@@ -13,5 +13,5 @@ Streaming using AVPlayer class.
 
 My website:  [alvararias](https://alvararias.se/portfolio)
 
-
+P2 image under SVT licence terms of use.(Materialet som tillhandahålls via API får inte användas på ett sådant sätt att det skulle kunna skada Sveriges Radios oberoende eller trovärdighet.)
 
