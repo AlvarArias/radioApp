@@ -1,5 +1,5 @@
 # Radio App
-![mi radio](https://user-images.githubusercontent.com/7523384/121326470-e431df00-c912-11eb-99be-7afbc2d59843.png)
+![mi radio2](https://user-images.githubusercontent.com/7523384/121326895-3ffc6800-c913-11eb-842f-62ff6dd24591.png)
 ## Simple swift App to stream SVT Radio P2 
 
 This is App is write Swift 5, allow stream SVT Radio P2. Is a simple example how stream sound in Swift.
