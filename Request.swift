@@ -24,9 +24,7 @@ struct scheduledEpisode {
     var elementName: String = String()
     var theEpisodeTitle = String()
     var theEpisodeDescription = String()
-    var theStartTime = String()
-    // https://api.sr.se/v2/scheduledepisodes?channelid=132
-    
+    var theStartTime = String()    
     
      func loadData(theRadioURL: String) {
          
@@ -49,9 +47,7 @@ struct scheduledEpisode {
             parser.delegate = self
             parser.parse()
             }
-            //print(self.Schedule)
-            
-            //print(String(data: data, encoding: .utf8)!)
+ 
             semaphore.signal()
             
         }
@@ -60,10 +56,7 @@ struct scheduledEpisode {
          
          }
              
-        }
-         
-         
- 
+     }
     
     func parser(_ parser: XMLParser, didStartElement elementName: String, namespaceURI: String?, qualifiedName qName: String?, attributes attributeDict: [String : String] = [:]) {
         
