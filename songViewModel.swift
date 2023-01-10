@@ -37,8 +37,7 @@ final class SongViewModel: ObservableObject {
                     } else {
                         
                         let decoder = JSONDecoder()
-                        //decoder.keyDecodingStrategy = .convertFromSnakeCase // Handle propieties that look like first_name > firstname
-                        
+                   
                         if let data = data,
                             let theSong = try? decoder.decode(Playlist.self, from: data){
                             // TODO: Handle setting the data
