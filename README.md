@@ -2,7 +2,7 @@
 ![mi radio2](https://user-images.githubusercontent.com/7523384/121326895-3ffc6800-c913-11eb-842f-62ff6dd24591.png)
 ## Swift 5 App to stream SVT Radio.
 
-This is simple radio player for Sweden radio service,  you can choose your radio Station: P1, P2; P3 and local radio P4.
+This is a radio player for Sweden radio service,  you can choose your radio Station: P1, P2; P3 and local radio P4.
 - Includes 50 radio stations.
 - You also can see the next radio 5 programs. 
 - You can also search your favorite radio.
