@@ -9,6 +9,12 @@ This is simple radio player for Sweden radio service,  you can choose your radio
 - Set your name and your radio on home page (P1,P2,P3)
 - Streaming using AVPlayer class.
 
+## App diagram 
+
+![diagplayer](https://user-images.githubusercontent.com/7523384/211632933-773b4920-5546-4fa4-bac0-233724276fd0.png)
+
+## App Sreenshots 
+
 ![home](https://user-images.githubusercontent.com/7523384/211545478-6bff4e7f-8889-4ff3-a15d-8cdc6e7b3516.png)
 ![detail](https://user-images.githubusercontent.com/7523384/211545643-c1f57a91-5c05-40ec-ad65-d8598a09237f.png)
 ![detailplay](https://user-images.githubusercontent.com/7523384/211545768-d44d2897-ac24-4968-b47d-588f3cb4145d.png)
