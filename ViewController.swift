@@ -56,13 +56,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+       
         let vol_image = UIImage(named: "icon 6.png")
         vol_slider.setThumbImage(vol_image, for: .normal)
        
         play_but.setImage(vol_play_cent, for: .normal)
-        
-        
+ 
     }
 
     
@@ -77,13 +76,11 @@ class ViewController: UIViewController {
     @IBAction func vol_slider(_ sender: UISlider) {
         
         if if_played == false {
-            //my_vol = Double(sender.value)
+          
             player.volume = sender.value
         }
-       
-        
+      
     }
-    
     
 }
 
