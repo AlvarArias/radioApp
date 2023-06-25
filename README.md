@@ -48,6 +48,8 @@ The app use AVplayer Apple framework to strean and play music from the internet.
 
 @Alvar Arias
 
+@Radio App follows Swedish Radio's open API [terms of use](https://sverigesradio.se/artikel/this-is-swedish-radios-open-api) 
+
 @Radio logo images under SVT licence terms of use.(Materialet som tillhandahålls via API får inte användas på ett sådant sätt att det skulle kunna skada Sveriges Radios oberoende eller trovärdighet.)
 
 
