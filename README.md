@@ -43,8 +43,8 @@ Also the app use use "User Defaults" for save user settings information.
 The app utilizes the Model-View-ViewModel (MVVM) architecture for the data model.
 This pattern separates the application into three main components - model (data), view (presentation), and view model (logic) - to improve organization and maintainability. 
 
-## Frames
-The app use AVplayer apple frame to strean and play music from the internet.
+## Frameworks
+The app use AVplayer Apple framework to strean and play music from the internet.
 
 
 
