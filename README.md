@@ -46,11 +46,9 @@ This pattern separates the application into three main components - model (data)
 ## Frameworks
 The app use AVplayer Apple framework to strean and play music from the internet.
 
+@Alvar Arias
 
-
-My website:  [alvararias](https://alvararias.se/portfolio)
-
-Radio logo images under SVT licence terms of use.(Materialet som tillhandahålls via API får inte användas på ett sådant sätt att det skulle kunna skada Sveriges Radios oberoende eller trovärdighet.)
+@Radio logo images under SVT licence terms of use.(Materialet som tillhandahålls via API får inte användas på ett sådant sätt att det skulle kunna skada Sveriges Radios oberoende eller trovärdighet.)
 
 
 
